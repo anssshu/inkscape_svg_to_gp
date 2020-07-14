@@ -24,7 +24,7 @@ bl_info = {
     "blender": (2, 80, 0),
     "location": "File > Import > Import Inkscape SVG file as GPencil Layers (.svg)",
     "description": "Import Inkscape SVG files as GPencil",
-    "warning": "",
+    "doc": "https://github.com/anssshu/inkscape_svg_to_gp",
     "doc_url": "https://github.com/anssshu/inkscape_svg_to_gp",
     "category": "Import-Export",
 }
@@ -79,3 +79,4 @@ def unregister():
 
 if __name__ == "__main__":
     register()
+
