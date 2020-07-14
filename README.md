@@ -1,7 +1,7 @@
 #BLENDER ADD ON for converting Inkscape SVG files to grease pencil multiple layers
 
 #SCREEN SHOT
-![alt text](https://github.com/anssshu/inkscape_svg_to_gp/image.jpg?raw=true)
+![alt text](https://github.com/anssshu/inkscape_svg_to_gp/blob/master/image.jpg)
 This file imports the SVG files created in Inkscape to Grease Pencil Object
 and arrange them in layers as defined inside inkscape
 
