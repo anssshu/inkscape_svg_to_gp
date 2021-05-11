@@ -1997,7 +1997,7 @@ def create_grease_pencil_from_curve(filepath):
 
         # Add points
         stroke.points.add(count = strokeLength )    
-        stroke.draw_cyclic = True
+        #stroke.draw_cyclic = True
     
         ppoints = []
         ppoints = stroke.points 
